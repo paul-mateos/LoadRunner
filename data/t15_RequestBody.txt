@@ -1,0 +1,5 @@
+"force=false&response_type=token&scope=https://www.googleapis.com/auth/cclog+https://www.google"
+"apis.com/auth/client_channel+https://www.googleapis.com/auth/memento&client_id=192748556389-k5"
+"lj2ak6j74mo13ulslbkqkrd8d6b1bh.apps.googleusercontent.com&origin=lpcaedmchfhocbbapmcbpinfpgnhi"
+"ddi&lib_ver=85.0.4183.102&release_channel=stable&device_id=38c831a3-d097-4de9-ab5f-5824c5ace0e"
+"c&device_type=chrome"

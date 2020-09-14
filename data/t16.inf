@@ -1,0 +1,13 @@
+[t16]
+FileName1=t16.html
+URL1=https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=3%2BNs80TJI4dSwb6CSauR6A%3D%3D
+Total=2
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=t16_RequestBody.txt
+ResponseHeaderFile=t16_ResponseHeader.txt
+ContentType=application/vnd.google.octet-stream-compressible
+SnapshotXmlFile=snapshot_16.xml
+FileName2=t16_extension-start.txt
+URL2=https://hangouts.google.com/webchat/extension-start
+[ProtocolInfo]
+ProtocolId=QTWeb

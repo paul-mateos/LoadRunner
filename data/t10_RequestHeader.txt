@@ -1,0 +1,14 @@
+POST /j/collect?v=1&_v=j85&aip=1&a=2105870230&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&ul=en-us&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QACAAEABAAAAAC~&jid=1045976197&gjid=834777572&cid=527256626.1593562057&tid=UA-55554816-1&_gid=1064392981.1599975943&_r=1&z=2072562827 HTTP/1.1
+Host: www.google-analytics.com
+Connection: keep-alive
+Content-Length: 0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: chrome-extension://cmedhionkhpnakcndndgjdbohmhepckk
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

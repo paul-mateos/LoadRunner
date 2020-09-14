@@ -1,0 +1,79 @@
+{
+ "kind": "calendar#settings",
+ "etag": "\"p338b3gc4u28um0g\"",
+ "nextSyncToken": "00001597105073314000",
+ "items": [
+  {
+   "kind": "calendar#setting",
+   "etag": "\"1589814000000000\"",
+   "id": "autoAddHangouts",
+   "value": "true"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"1589814000000000\"",
+   "id": "defaultEventLength",
+   "value": "60"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "dateFieldOrder",
+   "value": "DMY"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "weekStart",
+   "value": "1"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "format24HourTime",
+   "value": "true"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "hideInvitations",
+   "value": "false"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "locale",
+   "value": "en_GB"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "remindOnRespondedEventsOnly",
+   "value": "true"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "showDeclinedEvents",
+   "value": "true"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "timezone",
+   "value": "Australia/Sydney"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"1589814000000000\"",
+   "id": "useKeyboardShortcuts",
+   "value": "true"
+  },
+  {
+   "kind": "calendar#setting",
+   "etag": "\"0\"",
+   "id": "hideWeekends",
+   "value": "false"
+  }
+ ]
+}

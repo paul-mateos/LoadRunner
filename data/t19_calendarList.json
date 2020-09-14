@@ -1,0 +1,147 @@
+{
+ "kind": "calendar#calendarList",
+ "etag": "\"p338b3gc4u28um0g\"",
+ "nextSyncToken": "CNCxwYTwkesCEhZlbWFpbC5tYXRlb3NAZ21haWwuY29t",
+ "items": [
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1592951939411000\"",
+   "id": "npq48ge3gqarjgiaebqaus25io@group.calendar.google.com",
+   "summary": "Family Calendar",
+   "location": "Melbourne",
+   "timeZone": "Australia/Sydney",
+   "colorId": "12",
+   "backgroundColor": "#fad165",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "owner",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "hangoutsMeet"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1592951939411000\"",
+   "id": "email.mateos@gmail.com",
+   "summary": "email.mateos@gmail.com",
+   "timeZone": "Australia/Sydney",
+   "colorId": "14",
+   "backgroundColor": "#9fe1e7",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "owner",
+   "defaultReminders": [
+    {
+     "method": "email",
+     "minutes": 10
+    },
+    {
+     "method": "popup",
+     "minutes": 30
+    }
+   ],
+   "notificationSettings": {
+    "notifications": [
+     {
+      "type": "eventCreation",
+      "method": "email"
+     },
+     {
+      "type": "eventChange",
+      "method": "email"
+     },
+     {
+      "type": "eventCancellation",
+      "method": "email"
+     },
+     {
+      "type": "eventResponse",
+      "method": "email"
+     }
+    ]
+   },
+   "primary": true,
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "hangoutsMeet"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1592951939411000\"",
+   "id": "8qrm7r8tqsi2l8u5mfgi725n90@group.calendar.google.com",
+   "summary": "Ticketek",
+   "timeZone": "UTC",
+   "colorId": "23",
+   "backgroundColor": "#cd74e6",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "owner",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "hangoutsMeet"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1592951939411000\"",
+   "id": "f44b0bhcaadsbkd2uui4mfj8g4@group.calendar.google.com",
+   "summary": "NBL",
+   "timeZone": "UTC",
+   "colorId": "9",
+   "backgroundColor": "#7bd148",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "owner",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "hangoutsMeet"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1592951939411000\"",
+   "id": "addressbook#contacts@group.v.calendar.google.com",
+   "summary": "Contacts",
+   "timeZone": "Australia/Sydney",
+   "summaryOverride": "Contacts",
+   "colorId": "9",
+   "backgroundColor": "#7bd148",
+   "foregroundColor": "#000000",
+   "selected": true,
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "hangoutsMeet"
+    ]
+   }
+  },
+  {
+   "kind": "calendar#calendarListEntry",
+   "etag": "\"1592951939411000\"",
+   "id": "en_gb.australian#holiday@group.v.calendar.google.com",
+   "summary": "Holidays in Australia",
+   "timeZone": "Australia/Sydney",
+   "summaryOverride": "Holidays in Australia",
+   "colorId": "12",
+   "backgroundColor": "#fad165",
+   "foregroundColor": "#000000",
+   "accessRole": "reader",
+   "defaultReminders": [],
+   "conferenceProperties": {
+    "allowedConferenceSolutionTypes": [
+     "hangoutsMeet"
+    ]
+   }
+  }
+ ]
+}

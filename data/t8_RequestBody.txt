@@ -1,0 +1,4 @@
+"force=false&response_type=token&scope=https://www.googleapis.com/auth/musicmanager+https://www"
+".googleapis.com/auth/userinfo.email&client_id=383889641097-j3bpg7n6ao86l0f5v3b0br458rrug02m.ap"
+"ps.googleusercontent.com&origin=fahmaaghhglfmonjliepjlchgpgfmobi&lib_ver=85.0.4183.102&release"
+"_channel=stable&device_id=38c831a3-d097-4de9-ab5f-5824c5ace0ec&device_type=chrome"

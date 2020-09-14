@@ -1,0 +1,11 @@
+[t10]
+FileName1=t10.txt
+URL1=https://www.google-analytics.com/j/collect?v=1&_v=j85&aip=1&a=2105870230&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&ul=en-us&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QACAAEABAAAAAC~&jid=1045976197&gjid=834777572&cid=527256626.1593562057&tid=UA-55554816-1&_gid=1064392981.1599975943&_r=1&z=2072562827
+Total=1
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_10.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

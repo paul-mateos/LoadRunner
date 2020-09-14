@@ -1,0 +1,6 @@
+{
+  "issueAdvice": "auto",
+  "token": "ya29.a0AfH6SMDEJG8eixWtEUbveTr04VWDLFTQ9JOgc_rjX29T9_x5cUx1HBOVRqkXwhS5Pl_pfcbLv3UZvOb2gGBOnBeaNITfGgY8FCTarv2f8GiS7XcYsvHBdwngi4i2eE1EvDqi1ImKqa8JvSKFD4-vaEeaDf-R17L7joqWu-5bbHAqcAptvrNNpCytQDyMxCWxcLSX72I7cFZUWSZIlXACFFfEGi-_hStMXFJajwecOM3EdPOp4fbd7yODmAPVcaRl9XZAAfAhW5e3qcOGXl_ecazxIjQdf-RXRsDr0pp8Y42dspcWX_I-VBWYN0O0jD7BlD1kQA",
+  "expiresIn": "3599",
+  "grantedScopes": "openid https://www.googleapis.com/auth/userinfo.email email https://www.googleapis.com/auth/musicmanager"
+}

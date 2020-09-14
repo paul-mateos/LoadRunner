@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: chrome-extension://gmbgaklkmjakoegficnlkhebmhkjfich
+Vary: origin
+Vary: referer
+Vary: x-origin
+Access-Control-Allow-Methods: DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT
+Access-Control-Allow-Headers: authorization
+Access-Control-Max-Age: 3600
+Date: Sun, 13 Sep 2020 11:05:08 GMT
+Content-Type: text/html
+Server: ESF
+Content-Length: 0
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

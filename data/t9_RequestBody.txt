@@ -1,0 +1,4 @@
+"force=false&response_type=token&scope=https://www.googleapis.com/auth/calendar&client_id=84025"
+"6951321-stskg5tsvdfjcf1c5cthd6n5k54nq7q0.apps.googleusercontent.com&origin=gmbgaklkmjakoegficn"
+"lkhebmhkjfich&lib_ver=85.0.4183.102&release_channel=stable&device_id=38c831a3-d097-4de9-ab5f-5"
+"824c5ace0ec&device_type=chrome"

@@ -1,0 +1,13 @@
+[t24]
+FileName1=t24_dd.xml
+URL1=http://192.168.0.43:8060/dial/dd.xml
+Total=2
+ContentType=text/xml
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t24_ResponseHeader.txt
+FileName2=t24_device-desc.xml
+URL2=http://192.168.0.38:8008/ssdp/device-desc.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,8 @@
+"force=false&response_type=token&scope=https://www.googleapis.com/auth/chat+https://www.googlea"
+"pis.com/auth/client_channel+https://www.googleapis.com/auth/cloud-platform+https://www.googlea"
+"pis.com/auth/googlevoice+https://www.googleapis.com/auth/hangouts+https://www.googleapis.com/a"
+"uth/photos+https://www.googleapis.com/auth/plus.me+https://www.googleapis.com/auth/plus.people"
+"api.readwrite+https://www.googleapis.com/auth/youtube.readonly&client_id=1021803392181-71juemd"
+"l03adpl2n0tso7nl7hq83g2qg.apps.googleusercontent.com&origin=knipolnnllmklapflnccelgolnpehhpl&l"
+"ib_ver=85.0.4183.102&release_channel=stable&device_id=38c831a3-d097-4de9-ab5f-5824c5ace0ec&dev"
+"ice_type=chrome"

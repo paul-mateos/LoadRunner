@@ -1,0 +1,15 @@
+[t19]
+FileName1=t19.html
+URL1=https://www.googleapis.com/calendar/v3/users/me/settings
+Total=3
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_19.xml
+FileName2=t19_settings.json
+URL2=https://www.googleapis.com/calendar/v3/users/me/settings
+FileName3=t19_calendarList.json
+URL3=https://www.googleapis.com/calendar/v3/users/me/calendarList
+[ProtocolInfo]
+ProtocolId=QTWeb

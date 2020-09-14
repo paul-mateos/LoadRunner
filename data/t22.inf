@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22_dd.xml
+URL1=http://192.168.0.43:8060/dial/dd.xml
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

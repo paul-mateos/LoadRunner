@@ -1,0 +1,6 @@
+{
+  "issueAdvice": "auto",
+  "token": "ya29.a0AfH6SMD2-VIS6tM6ei54A9k6t-2oATaRWEbmbEaJ4w--OA-MHeoemi4MwqFR9Z1mL4LUILtjjA24AbTpm5GZGkXRhsM-BtbMvns7Usq5WW0V7cqxPphXQ-ybZF8TUr36zrcN0c4J594SmtvZWNYzAVuwS29uNYe_w9wkyrQNe2IktY9lG6QUCWYXFFHfDAPbLX3OXQGyES_yNuN-hWlNqL-8c--A3XMX7xx-S4cm7uIVJ3KKNpTxmDAS0Wv3piinz3iqvT8jE479Ud8uWaFpFA1BOL1WnJ104u2ySaNeCJCmgpdVq_SIuG99x5Xh5VtRGaAQlcRJHgfUJB2v",
+  "expiresIn": "3599",
+  "grantedScopes": "https://www.googleapis.com/auth/photos https://www.googleapis.com/auth/client_channel https://www.googleapis.com/auth/peopleapi.legacy.readwrite https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/googlevoice openid https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/chat https://www.googleapis.com/auth/hangouts"
+}

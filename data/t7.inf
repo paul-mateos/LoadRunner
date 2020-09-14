@@ -1,0 +1,13 @@
+[t7]
+FileName1=t7.html
+URL1=https://hangouts.google.com/webchat/blank
+Total=2
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_do_ad_settings_allow_floc_poc.json
+URL2=https://adservice.google.com/settings/do_ad_settings_allow_floc_poc
+[ProtocolInfo]
+ProtocolId=QTWeb

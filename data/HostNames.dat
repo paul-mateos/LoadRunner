@@ -1,0 +1,14 @@
+[hosts]
+192.168.0.22=
+192.168.0.38=
+www.googleapis.com=
+clientservices.googleapis.com=
+accounts.google.com=
+www.google-analytics.com=
+hangouts.google.com=
+adservice.google.com=
+oauthaccountmanager.googleapis.com=
+play.google.com=
+clients4.google.com=
+www.google.com=
+192.168.0.43=

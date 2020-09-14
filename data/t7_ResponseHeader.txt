@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Expires: Mon, 13 Sep 2021 00:08:15 GMT
+Date: Sun, 13 Sep 2020 00:08:15 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: script-src 'report-sample' 'nonce-ZEgpgYp65BtKfhBeMs3s/A' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';object-src 'none';base-uri 'self';report-uri /webchat/_/cspreport
+Content-Encoding: gzip
+Server: ESF
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+Cache-Control: public, max-age=31536000
+Content-Length: 69
+Age: 39412
+Alt-Svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+

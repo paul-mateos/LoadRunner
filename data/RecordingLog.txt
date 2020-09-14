@@ -1,0 +1,142 @@
+[API Trapper      ( 254:3a5c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1124:3de4)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (37d0:3b08)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (37d0:3188)] ------------------------------------------------------------------------------------------
+[Network Analyzer (37d0:3188)] Load Network Traffic Analyzers:
+[Network Analyzer (37d0:3188)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (37d0:3188)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (37d0:3188)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (37d0:3188)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (37d0:3188)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (37d0:3188)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (37d0:3188)]     Analyzer Module: local_server (value=)
+[Network Analyzer (37d0:3188)] ------------------------------------------------------------------------------------------
+[Network Analyzer (37d0:4320)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 172.217.167.99:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.66.237:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 216.58.196.132:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (37d0:3cfc)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[API Trapper      (43e4:2d50)] Recording in 64-bit mode: C:\WINDOWS\system32\cmd.exe
+[Network Analyzer (37d0:40e8)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (37d0:4074)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[API Trapper      (23ec:2a60)] Recording in 64-bit mode: C:\WINDOWS\system32\cmd.exe
+[API Trapper      (3574: b08)] Recording in 32-bit mode: C:\Users\Paul\AppData\Local\IE Tab\13.7.15.1\ietabhelper.exe
+[API Trapper      (1938:105c)] Recording in 32-bit mode: C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 192.168.0.22:37616   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 192.168.0.38:8008   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 192.168.0.43:8060   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      (37d0:4320)] "GET /dd.xml"   
+[Network Analyzer (37d0:4320)]   (Sid:  4) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:4320)]   (Sid:  4) Server -> Client : 100 bytes  (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  4) Server -> Client : 446 bytes  (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.66.174:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 172.217.25.170:443   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      (37d0:4320)] "GET /ssdp/device-desc.xml"   
+[Network Analyzer (37d0:4320)]   (Sid:  5) Client -> Server @ : 248 bytes (Service=HTTP)
+[Web Request      (37d0:4320)] "GET /dial/dd.xml"   
+[Network Analyzer (37d0:4320)]   (Sid:  6) Client -> Server @ : 239 bytes (Service=HTTP)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:4320)]   (Sid:  6) Server -> Client : 192 bytes  (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  5) Server -> Client : 1195 bytes  (Service=HTTP)
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 172.217.25.170:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (37d0:4320)]   (Sid:  6) Server -> Client : 1141 bytes  (Service=HTTP)
+[Network Analyzer (37d0:4520)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:410c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3cfc)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (37d0:40e8)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (37d0:4320)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 216.58.203.110:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (37d0:4074)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:4520)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 216.58.203.110:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 172.217.167.66:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.66.227:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:410c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.67.14:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (37d0:4320)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 52.62.21.192:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (37d0:4320)]   (Sid:  2) Client -> Server @ : 2632 bytes (SSL)(Service=HTTP)
+[Web Request      (37d0:4320)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (37d0:4320)]   (Sid:  2) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.67.14:443   (Service=)  (Sid= 17)  PROXIED!
+[Web Request      (37d0:4320)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=85"   
+[Network Analyzer (37d0:4320)]   (Sid:  1) Client -> Server @ : 449 bytes (SSL)(Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  7) Client -> Server @ : 1791 bytes (SSL)(Service=HTTP)
+[Web Request      (37d0:4320)] "POST /log?format=json&hasfast=true"   
+[Network Analyzer (37d0:4320)]   (Sid:  7) Client -> Server @ : 544 bytes (SSL)(Service=HTTP)
+[Web Request      (37d0:4320)] "POST /oauth2/v4/token"   
+[Network Analyzer (37d0:4320)]   (Sid:  8) Client -> Server @ : 652 bytes (SSL)(Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  8) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  2) Server -> Client : 1674 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  8) Server -> Client : 204 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  2) Server -> Client : 388 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  8) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  2) Server -> Client : 75 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  2) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (37d0:4320)] "POST /oauth2/v4/token"   
+[Network Analyzer (37d0:4320)]   (Sid:  8) Client -> Server @ : 701 bytes (SSL)(Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  7) Server -> Client : 2273 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  1) Server -> Client : 379 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.67.10:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (37d0:4320)]   (Sid:  8) Server -> Client : 1064 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:4320)]   (Sid:  8) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 172.217.167.78:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 216.58.196.132:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.67.10:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.67.10:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.67.10:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Network Analyzer (37d0:3188)] Request Connection: Remote Server @ 142.250.67.10:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (37d0:3188)] Address lookup for DESKTOP-0OSLNTI = 192.168.12.113
+[Net An. Error    (37d0:4624)] SSL_connect(ssl_id = 736517024 = 0000015B2BE65BA0) Failed, ctx = 0000015B2C1A6C50, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0:4624)]   (Sid:  9) SSL handshake with remote server Failed!
+[Net An. Error    (37d0:25d4)] SSL_connect(ssl_id = 736523424 = 0000015B2BE674A0) Failed, ctx = 0000015B2C1AD160, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0:25d4)]   (Sid: 10) SSL handshake with remote server Failed!
+[Network Analyzer (37d0: bc0)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Net An. Error    (37d0:3d78)] SSL_connect(ssl_id = 736520224 = 0000015B2BE66820) Failed, ctx = 0000015B2C1A6940, err = "SSLv3 read finished A", err code = 5
+[Net An. Error    (37d0:3d78)]   (Sid: 12) SSL handshake with remote server Failed!
+[Net An. Error    (37d0:3da8)] SSL_connect(ssl_id = 736525024 = 0000015B2BE67AE0) Failed, ctx = 0000015B2C1A7EB0, err = "SSLv3 read server session ticket A", err code = 5
+[Net An. Error    (37d0:3080)] SSL_connect(ssl_id = 736521024 = 0000015B2BE66B40) Failed, ctx = 0000015B2C1A7270, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0:42c8)] SSL_connect(ssl_id = 736529824 = 0000015B2BE68DA0) Failed, ctx = 0000015B2C1A9A40, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0:3da8)]   (Sid: 13) SSL handshake with remote server Failed!
+[Net An. Error    (37d0:3080)]   (Sid: 14) SSL handshake with remote server Failed!
+[Net An. Error    (37d0:42c8)]   (Sid: 15) SSL handshake with remote server Failed!
+[Net An. Error    (37d0:3348)] SSL_connect(ssl_id = 736521824 = 0000015B2BE66E60) Failed, ctx = 0000015B2C1A9D50, err = "SSLv2/v3 read server hello A", err code = 1
+[Net An. Error    (37d0:3348)]   (Sid: 16) SSL handshake with remote server Failed!
+[Network Analyzer (37d0:129c)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (37d0:42c4)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (37d0:33e4)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (37d0:18c4)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[API Trapper      (2eb8:4030)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Net An. Error    (37d0:4750)] SSL_connect(ssl_id = 735047488 = 0000015B2BCFEF40) Failed, ctx = 0000015B2C1AA680, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0:4750)]   (Sid: 21) SSL handshake with remote server Failed!
+[Net An. Error    (37d0:3a84)] SSL_connect(ssl_id = 735044288 = 0000015B2BCFE2C0) Failed, ctx = 0000015B2C1AA680, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0:3a84)]   (Sid: 22) SSL handshake with remote server Failed!
+[Net An. Error    (37d0: 404)] SSL_connect(ssl_id = 735049888 = 0000015B2BCFF8A0) Failed, ctx = 0000015B2C1AA680, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0: 404)]   (Sid: 23) SSL handshake with remote server Failed!
+[Net An. Error    (37d0:42a0)] SSL_connect(ssl_id = 735058688 = 0000015B2BD01B00) Failed, ctx = 0000015B2C1AA680, err = "SSLv2/v3 read server hello A", err code = 5
+[Net An. Error    (37d0:42a0)]   (Sid: 24) SSL handshake with remote server Failed!
